@@ -18,7 +18,7 @@ Lately, I am concentrating on distributed systems, edge technologies, and webass
 Even though I love the role of an individual contributor, the goal is always to share knowledge with others.
 Hence, teaching position at university.
 
-Twitter: @DinoLozina
-Web: https://www.dinolozina.eu/
-Web: https://www.akritech.eu/
+- Twitter: @DinoLozina
+- Web: https://www.dinolozina.eu/
+- Web: https://www.akritech.eu/
 
